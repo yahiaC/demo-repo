@@ -1,3 +1,3 @@
-#demo
+demo
 
 some explanation about the program
